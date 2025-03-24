@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import static org.junit.jupiter.api.Assertions.*;
 
 class FuzzyFinderTest {
-
+//
     @Test
     void testLinearSearch() {
         FuzzyListGenerator generator = new FuzzyListGenerator();

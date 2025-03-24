@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.ArrayList;
-
+//
 public class FuzzyFinder {
     
     // Linear search method
